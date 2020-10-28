@@ -1,5 +1,5 @@
-FROM ubuntu:xenial
-MAINTAINER Fmstrat <fmstrat@NOSPAM.NO>
+FROM ubuntu:focal
+LABEL phlgr <phlgr@NOSPAM.NO>
 
 ENV DEBIAN_FRONTEND noninteractive
 
